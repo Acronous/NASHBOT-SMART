@@ -7,7 +7,7 @@ module.exports = {
   name: "leaveNoti",
   version: "2.0.0", 
   description: "Professional leave notifications with aesthetic design",
-  author: "Cyydev && Joshua",
+  author: "rinsu",
   async onEvent({ api, event, prefix }) {
     try {
       const { logMessageType, logMessageData, threadID } = event;
