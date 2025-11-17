@@ -8,5 +8,5 @@
     "updatePresence": false,
     "forceLogin": false,
     "autoReconnect": false,
-    "online": false
+    "online": true
 }
