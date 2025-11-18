@@ -883,19 +883,8 @@ async function handleAIQuery(api, event, body, threadID, messageID) {
 
 function handleContact(api, threadID, messageID) {
     const contactContent = `🧑‍💻 LEAD DEVELOPER
-   Joshua Apostol
-   📧 joshuaapostol909@gmail.com
-   📱 fb.com/joshuaapostol2006
-   💻 github.com/joshuaApos
-
-👨‍💻 CO-LEAD DEVELOPER  
-   Cyril Encenso
-   📧 Amigohaycyril10@gmail.com
-   📱 fb.com/cyypookie
-   💻 github.com/atsushinakajima14
-
-🌐 PORTFOLIO
-   joshua-portfolio.com
+   Renzo
+   
 
 💬 Support & Inquiries Welcome!`;
 
